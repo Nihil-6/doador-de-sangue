@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\bin\Debug\net9.0\doadorDeSangue.exe
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\bin\Debug\net9.0\doadorDeSangue.deps.json
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\bin\Debug\net9.0\doadorDeSangue.runtimeconfig.json
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\bin\Debug\net9.0\doadorDeSangue.dll
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\bin\Debug\net9.0\doadorDeSangue.pdb
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\doadorDeSangue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\doadorDeSangue.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\doadorDeSangue.AssemblyInfo.cs
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\doadorDeSangue.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\doadorDeSangue.sourcelink.json
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\doadorDeSangue.dll
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\refint\doadorDeSangue.dll
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\doadorDeSangue.pdb
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\doadorDeSangue.genruntimeconfig.cache
+C:\Users\user\Documents\Programacao\doador-de-sangue\doadorDeSangue\obj\Debug\net9.0\ref\doadorDeSangue.dll
